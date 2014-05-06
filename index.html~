@@ -1,7 +1,17 @@
 <html>
 <title> Git Test10</title>
+
 <body>
+<h1> GIT EXAMPLES </h1>
 <p>Newwww Paragraph...............</p>
+
+<table> 
+  <tr>
+      <td>1</td>
+      <td>2</td>
+  </tr>
+</table>
+
 </body>
 </html>
 
